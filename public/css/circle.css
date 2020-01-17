@@ -1,0 +1,153 @@
+.active {
+	height: 20px;
+	width: 20px;
+	border-radius: 10px !important;
+	margin: 0 auto;
+	background: -webkit-radial-gradient(#FFF9C4, #4CAF50, #1B5E20);
+	/* Safari 5.1 - 6.0 */
+	background: -o-radial-gradient(#FFF9C4, #4CAF50, #1B5E20);
+	/* Opera 11.6 - 12.0 */
+	background: -moz-radial-gradient(#FFF9C4, #4CAF50, #1B5E20);
+	/* Firefox 3.6 - 15 */
+	background: radial-gradient(#FFF9C4, #4CAF50, #1B5E20);
+	/* 标准的语法（必须放在最后） */
+}
+
+.default {
+	height: 20px;
+	width: 20px;
+	border-radius: 10px !important;
+	margin: 0 auto;
+	background: -webkit-radial-gradient(rgb(247, 242, 206) 0%, #ccc 40%, rgb(107, 105, 105));
+
+}
+
+.el-tooltip__popper.popo-cos {
+	border: 1px solid #959fb3;
+	box-shadow: 0 0 5px #b5b5ac;
+}
+
+.alarm-low {
+	height: 20px;
+	width: 20px;
+	border-radius: 10px;
+	margin: 0 auto;
+	background: -webkit-radial-gradient(#faeb0a, #ffb82c);
+	/*#FFF9C4, #FFEB3B, #FBC02D*/
+	/* Safari 5.1 - 6.0 */
+	background: -o-radial-gradient(#faeb0a, #ffb82c);
+	/* Opera 11.6 - 12.0 */
+	background: -moz-radial-gradient(#faeb0a, #ffb82c);
+	/* Firefox 3.6 - 15 */
+	background: radial-gradient(#faeb0a, #ffb82c);
+}
+
+.alarm-high {
+	height: 20px;
+	width: 20px;
+	border-radius: 10px;
+	margin: 0 auto;
+	background: radial-gradient(#fff46d 0%, #ff4343 40%, #b11010);
+}
+
+.display1 {
+	display: none;
+}
+
+/*状态*/
+.fade-box {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.fade-box .icon,
+.icon-lengend .icon {
+	display: inline-block;
+}
+
+.fade-box .icon {
+	position: absolute;
+}
+
+.iconfont.cha {
+	color: red;
+	font-size: 19px;
+}
+
+.icon-lengend {
+	padding: 10px;
+	/* border: 3px ridge #d9d7e6;
+	background-color: #F5F5F5; */
+}
+
+.icon-lengend .icon-font {
+	display: flex;
+	align-items: center;
+	height: 25px;
+}
+
+.icon-lengend .icon-f {
+	font-size: 10px;
+	color: #4d4f52;
+}
+
+.circle-icon {
+	height: 20px;
+	width: 20px;
+	border-radius: 10px !important;
+	margin: 0 auto;
+}
+
+.circle-icon.icon {
+	margin: 0;
+}
+
+.activeone {
+	background: radial-gradient(#fbffd0 0%, #a6dedb 40%, #6eb4d6);
+}
+
+.activetwo {
+	background: radial-gradient(#fffde0 0%, #bcbdff 40%, #7e72ad);
+}
+
+.activethree {
+	background: radial-gradient(#ffffff 0%, #b1b1b1 40%, #585658);
+}
+
+.activefour {
+	background: radial-gradient(#fcffaa 0%, #ffd485 40%, #ffa242);
+}
+
+.activefive {
+	background: radial-gradient(#ffffff 0%, #a1e88f 40%, #73b785);
+}
+
+/* .icon-fontone {
+	color: rgb(216, 86, 11) !important;
+	font-size: 18px !important;
+}
+
+.icon-fonttwo {
+	color: #0f12af !important;
+	font-size: 18px !important;
+}
+
+.icon-fontthree {
+	color: #4CAF50 !important;
+	font-size: 18px !important;
+}
+
+
+.icon-fontfour {
+	color: #585658 !important;
+	font-size: 18px !important;
+}
+
+.icon-fontfive {
+	color: #e652c6 !important;
+	font-size: 18px !important;
+} */

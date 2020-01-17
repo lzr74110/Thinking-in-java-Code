@@ -1,0 +1,44 @@
+{
+  "id": "1507681",
+  "name": "ifms-5g",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "5G前传",
+  "glyphs": [
+    {
+      "icon_id": "612554",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "2265291",
+      "name": "权限",
+      "font_class": "quanxian3",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "2621261",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "3367559",
+      "name": "电源",
+      "font_class": "dianyuan1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5080031",
+      "name": "用户",
+      "font_class": "yonghu2",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
