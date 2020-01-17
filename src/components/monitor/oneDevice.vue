@@ -1649,7 +1649,7 @@
 								item.val="";
 							}
 							_this.slotTableData[index].temp = item.val;
-							_this.slotTableData[index].alarm = item.type;
+							_this.slotTableData[index].status = item.type;
 							_this.slotTableData[index].bookshow = true;
 							setTimeout(() => {
 								_this.slotTableData[index].temp = item.val;
