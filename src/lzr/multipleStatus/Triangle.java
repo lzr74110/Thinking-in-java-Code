@@ -1,4 +1,4 @@
-package multipleStatus;
+package lzr.multipleStatus;
 
 public class Triangle extends Shape {
     @Override

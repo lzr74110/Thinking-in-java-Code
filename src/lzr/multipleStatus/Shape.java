@@ -1,4 +1,4 @@
-package multipleStatus;
+package lzr.multipleStatus;
 
 public abstract class Shape {
 
